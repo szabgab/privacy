@@ -1,7 +1,6 @@
 [book]
 authors = ["noarch"]
 language = "zh-Hans"
-multilingual = false
 src = "src"
 title = "privacy.noarch"
 description = "一本面向新手的隐私教程"
